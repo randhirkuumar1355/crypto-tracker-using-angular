@@ -33,4 +33,8 @@ You can use the CoinGecko Crypto API in your Angular services, you will need to 
 
 Once you have these prerequisites in place, you can start making HTTP requests to the CoinGecko Crypto API in your Angular services to fetch data and integrate it into your application.
 ### Project Screenshots:
+### Home Page
+![Crypto Watch](https://user-images.githubusercontent.com/114358610/224549615-86f8bfe1-ab4a-4d7b-99d9-4c67b670c77d.jpg)
+### Crypto Details Page
+![Crypto Details](https://user-images.githubusercontent.com/114358610/224549631-89a4b29d-dc24-4c35-8b15-ae4b0438b910.jpg)
 
