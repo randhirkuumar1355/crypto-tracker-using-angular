@@ -1,5 +1,7 @@
 # Crypto Tracker Using Angular Material
 The CryptoWatch project using Angular Material is a web application that allows users to track the prices of various cryptocurrencies in real-time, built using Angular Material, a UI component library for Angular. The application offers an intuitive user interface with rich functionality and advanced features like responsive design, accessibility, theming, and animations. It uses Material Design principles to provide a visually appealing experience to the users. Users can view live prices, historical data, and news related to their favorite cryptocurrencies. The application retrieves data from various APIs and displays it in a clean and modern manner. The CryptoWatch project using Angular Material is a great example of how Angular Material can be used to create a professional-looking and engaging web application.
+### Demo Link:
+https://cineflix-f9598.web.app
 ## Prerequisites
 ### Angular Material:
 Before you can install and use Angular Material in your project, you will need to have the following prerequisites installed:
